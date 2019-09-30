@@ -1,8 +1,8 @@
 # buscapatron.github.io
 Busca un patrón en una cadena
 
-Busca en un archivo log o cualquier tipo de archivo,
-la cadena error o warning mostrando en pantalla el resultado de la busqueda.
+Busca en un archivo log o cualquier tipo de archivo
+la cadena error o warning, mostrando en pantalla el resultado de la busqueda.
 
 Requerimientos:
 version de python 3, GNU/Linux
