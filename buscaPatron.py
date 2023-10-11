@@ -12,7 +12,7 @@ Metodo de ejecucion:
     $ chmod 755 buscaPatron.py y luego ./buscaPatron.py /var/log/kern.log
 
 
-Cualquier modificacion o mejora seran bienvenidos: cefe.mulet@gmail.com
+Cualquier modificacion o mejora seran bienvenidos: cefe.mulet@gmail.com.
 
 """
 
